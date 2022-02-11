@@ -2,4 +2,8 @@ Haceos una modificación
 Haceos otra :v
 
 Otro cambio desde GitHub
+<<<<<<< HEAD
 Mas cambios blablabla
+=======
+Cambio en la rama de main :v
+>>>>>>> ramadmain
